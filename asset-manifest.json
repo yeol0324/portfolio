@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c3bb3a24.chunk.css",
+    "main.js": "/portfolio/static/js/main.ea3ea55f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ea3ea55f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.9a0a1ad7.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.9a0a1ad7.js.map",
+    "static/css/2.bad98c19.chunk.css": "/portfolio/static/css/2.bad98c19.chunk.css",
+    "static/js/2.112fefb2.chunk.js": "/portfolio/static/js/2.112fefb2.chunk.js",
+    "static/js/2.112fefb2.chunk.js.map": "/portfolio/static/js/2.112fefb2.chunk.js.map",
+    "static/js/3.10a9cc79.chunk.js": "/portfolio/static/js/3.10a9cc79.chunk.js",
+    "static/js/3.10a9cc79.chunk.js.map": "/portfolio/static/js/3.10a9cc79.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.bad98c19.chunk.css.map": "/portfolio/static/css/2.bad98c19.chunk.css.map",
+    "static/css/main.c3bb3a24.chunk.css.map": "/portfolio/static/css/main.c3bb3a24.chunk.css.map",
+    "static/js/2.112fefb2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.112fefb2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Raleway-SemiBold.243af299.ttf",
+    "static/media/blizz.f6b0efac.png": "/portfolio/static/media/blizz.f6b0efac.png",
+    "static/media/semantic.min.css": "/portfolio/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/gonz.0e9835f9.png": "/portfolio/static/media/gonz.0e9835f9.png",
+    "static/media/rv.113d24df.jpg": "/portfolio/static/media/rv.113d24df.jpg",
+    "static/media/slick-theme.css": "/portfolio/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a0a1ad7.js",
+    "static/css/2.bad98c19.chunk.css",
+    "static/js/2.112fefb2.chunk.js",
+    "static/css/main.c3bb3a24.chunk.css",
+    "static/js/main.ea3ea55f.chunk.js"
+  ]
+}
